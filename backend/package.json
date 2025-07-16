@@ -1,0 +1,13 @@
+{
+  "name": "chess-analyzer",
+  "version": "1.0.0",
+  "description": "Chess Analyzer menggunakan Stockfish (Node.js backend dan chessboard.js frontend)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stockfish": "^11.0.0"
+  }
+}
