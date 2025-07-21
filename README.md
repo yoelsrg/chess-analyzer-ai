@@ -65,7 +65,7 @@ node server.js
 
 ### 3. Jalankan Frontend
 
-* Buka `frontend/index.html` langsung via browser (double klik / buka via Live Server)
+* Buka `frontend/chess-ai/index.html` langsung via browser (double klik / buka via Live Server)
 
 ---
 
